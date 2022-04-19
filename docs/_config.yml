@@ -1,12 +1,11 @@
-title: notenote.link
-name: My linked notebook
-user_description: notenote.link
-notes_url: "https://notenote.link.netlify.app"
+title: oskarflesh
+name: \@oskarfleh Blog
+user_description: 
+notes_url: "https://ogomezso.github.io"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
-copyright_name: MIT
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://notenote.link.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ogomezso.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
