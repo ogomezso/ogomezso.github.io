@@ -1,15 +1,20 @@
 ---
-title: How to use notenote.link features on your website
+title: Pagina de Test
 season: summer
-tags: Theme
+tags: Test
 toc: true
 comments: true
 ---
 
 # Esto es una prueba de pagina
 
-> [!note] 
-> se sbuira bien a mi blog??
+```ad-note
+title: esto es una nota
+nota de admonition
+
+
+```
+
 
 que pensais vosotros??
 
