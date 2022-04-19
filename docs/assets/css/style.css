@@ -17,8 +17,8 @@ layout: stylesheet
 	font-stretch: normal;
 	font-style: normal;
 	src: url('../fonts/iosevka-term-regular.ttf') format('truetype'), url('../fonts/iosevka-term-regular.woff2') format('woff2');
+}
 
-/* Containers: Body, Container, Box, Main, Header, Content */ 
 
 html {
     scroll-behavior: smooth;
