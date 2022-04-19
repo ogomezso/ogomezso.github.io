@@ -1474,14 +1474,32 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+body {
+    font-family: Iosevka, sans-serif;
+    color: #FFF;
+    background-color: #f7f7f7;
+    -webkit-font-smoothing: antialiased;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+p > a:hover{
+    color: #d9d9d9;
+    text-decoration:  underline;
+}
 
+ul {
+    padding:0;
+    list-style: none;
+}
 .footer-social-icons {
     width: 350px;
     display:block;
     margin: 0 auto;
 }
 .social-icon {
-    color: #fff;
+    color: #555555; 
 }
 ul.social-icons {
     margin-top: 10px;
