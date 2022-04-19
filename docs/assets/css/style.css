@@ -1192,15 +1192,6 @@ img[src*='#center'] {
  display: none;
 }
 
-#copyright {
-    margin-left: 20px;
-}
-
-#copyright-notice {
-    font-size: 0.7rem;
-    font-weight: 700;
-}
-
 /* IE-SPECIFIC STYLING */
 
 
@@ -1482,32 +1473,8 @@ label.margin-toggle:not(.sidenote-number) {
     display: inline;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
-body {
-    font-family: Iosevka, 'Lato', sans-serif;
-    color: #FFF;
-    -webkit-font-smoothing: antialiased;
-}
-a {
-    text-decoration: none;
-    color: #fff;
-}
-p > a:hover{
-    color: #d9d9d9;
-    text-decoration:  underline;
-}
 
-._12 {
-    font-size: 1.2em;
-}
-._14 {
-    font-size: 1.4em;
-}
-ul {
-    padding:0;
-    list-style: none;
-}
 .footer-social-icons {
     width: 350px;
     display:block;
