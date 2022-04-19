@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4ca8473eea3db4c",
+        "id": "e0ea68af8d6e609f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/_notes/Page Test.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -48,6 +44,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "023996009b3c44aa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_notes/Page Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +90,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4ca8473eea3db4c",
+  "active": "e0ea68af8d6e609f",
   "lastOpenFiles": [
-    "docs/_notes/Page Test.md",
-    "docs/_notes/How to use the special features.md"
+    "docs/_notes/Obsidian integration.md",
+    "docs/_notes/How-to-setup-this-site.md",
+    "docs/_notes/How to use the special features.md",
+    "docs/_notes/Page Test.md"
   ]
 }

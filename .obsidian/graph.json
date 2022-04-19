@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:docs/_notes",
+      "color": {
+        "a": 1,
+        "rgb": 15532546
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.648828125,
+  "lineSizeMultiplier": 1.551171875,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 15.1801658163265,
+  "linkStrength": 1,
+  "linkDistance": 103,
+  "scale": 1.0148080218455422,
+  "close": false
+}

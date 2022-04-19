@@ -3,5 +3,7 @@
   "obsidian-minimal-settings",
   "obsidian-admonition",
   "obsidian-excalidraw-plugin",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-pandoc",
+  "obsidian-style-settings"
 ]
