@@ -8,5 +8,6 @@
   "obsidian-style-settings",
   "obsidian-checklist-plugin",
   "obsidian-dynamic-toc",
-  "calendar"
+  "calendar",
+  "cm-editor-syntax-highlight-obsidian"
 ]

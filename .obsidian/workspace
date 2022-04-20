@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5_weekly_notes/2022-W05.md",
+            "file": "__fleeting_notes/202204181710 - CFK Runbook.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_weekly_notes/2022-W05.md",
+                "file": "__fleeting_notes/202204181710 - CFK Runbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,22 +103,31 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "55e0ad72132d1ccb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "46a8ea2d80efc3a4",
   "lastOpenFiles": [
+    "__fleeting_notes/202204181710 - CFK Runbook.md",
     "5_weekly_notes/2022-W05.md",
     "4_daily_notes/2022-02-03.md",
     "a_clients/ADIB/ADIB.md",
     "4_daily_notes/2022-02-02.md",
     "4_daily_notes/2022-04-20.md",
     "__fleeting_notes/202203081719 - spring kafka k8s.md",
-    "__fleeting_notes/202204181710 - CFK Runbook.md",
     "Excalidraw/Drawing 2022-04-18 CFK Deployment Types.md",
     "__fleeting_notes/202204131010 - Parallel Consumer.md",
     "4_daily_notes/2022-03-16.md"
