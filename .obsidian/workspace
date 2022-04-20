@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "255a8b0edb541e2a",
+    "id": "4473beb057b32a36",
     "type": "split",
     "children": [
       {
-        "id": "61e9af074eef26f0",
+        "id": "0b0281f9a016647d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4_daily_notes/2022-04-07.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "acbde53356bde7d2",
+    "id": "a9ebac2fca8c6afa",
     "type": "split",
     "children": [
       {
-        "id": "e992cf8f3f2977b4",
+        "id": "8524f01a7840ecac",
         "type": "tabs",
         "children": [
           {
-            "id": "c5b5c55d26544d69",
+            "id": "224a3213e0fca7e4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "fc2ed3983978b36b",
+            "id": "10cc29f8bc7468bd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "023996009b3c44aa",
+            "id": "5ae5863757fc1c7e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +60,27 @@
     "width": 300
   },
   "right": {
-    "id": "284ca6a6b058a1e8",
+    "id": "cceef0c0e44826ef",
     "type": "split",
     "children": [
       {
-        "id": "64c8749920542485",
+        "id": "a282ed8ef6d86937",
         "type": "tabs",
         "children": [
           {
-            "id": "ecb80f0eb9ea88db",
+            "id": "73a592d1619d4db9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "746395ed78d0856b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_daily_notes/2022-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,40 +92,20 @@
             }
           },
           {
-            "id": "6606546928bf33f6",
+            "id": "6460126abfbdc173",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "e8dd4a12fdfcf1f4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 526.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "61e9af074eef26f0",
-  "lastOpenFiles": [
-    "4_daily_notes/2022-04-07.md",
-    "4_daily_notes/2022-03-25.md",
-    "TODOLIST.md",
-    "a_clients/Santander/2022-02-25 Santander Weekly Report.md",
-    "a_clients/Santander/2022-04-08 Santander Weekly Report.md",
-    "a_clients/Santander/2022-02-18 Santander Weekly Report.md",
-    "templates/Blog Post.md",
-    "docs/_notes/Page Test.md",
-    "docs/_notes/Obsidian integration.md",
-    "docs/_notes/How-to-setup-this-site.md"
-  ]
+  "active": "0b0281f9a016647d",
+  "lastOpenFiles": []
 }
