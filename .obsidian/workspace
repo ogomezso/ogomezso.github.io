@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ea68af8d6e609f",
+        "id": "61e9af074eef26f0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "4_daily_notes/2022-04-07.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4_daily_notes/2022-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,19 +87,42 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "6606546928bf33f6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8dd4a12fdfcf1f4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 526.5,
     "collapsed": true
   },
-  "active": "e0ea68af8d6e609f",
+  "active": "61e9af074eef26f0",
   "lastOpenFiles": [
+    "4_daily_notes/2022-04-07.md",
+    "4_daily_notes/2022-03-25.md",
+    "TODOLIST.md",
+    "a_clients/Santander/2022-02-25 Santander Weekly Report.md",
+    "a_clients/Santander/2022-04-08 Santander Weekly Report.md",
+    "a_clients/Santander/2022-02-18 Santander Weekly Report.md",
+    "templates/Blog Post.md",
+    "docs/_notes/Page Test.md",
     "docs/_notes/Obsidian integration.md",
-    "docs/_notes/How-to-setup-this-site.md",
-    "docs/_notes/How to use the special features.md",
-    "docs/_notes/Page Test.md"
+    "docs/_notes/How-to-setup-this-site.md"
   ]
 }

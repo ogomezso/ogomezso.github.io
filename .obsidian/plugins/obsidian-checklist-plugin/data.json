@@ -1,0 +1,19 @@
+{
+  "todoPageName": "todo\nk8_todolist",
+  "showChecked": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "4_daily_notes/2022-04-13.md",
+    "4_daily_notes/2022-04-11.md",
+    "4_daily_notes/2022-04-07.md",
+    "4_daily_notes/2022-04-05.md"
+  ],
+  "_hiddenTags": []
+}

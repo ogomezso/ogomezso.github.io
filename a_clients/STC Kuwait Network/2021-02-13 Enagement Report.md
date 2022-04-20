@@ -1,0 +1,87 @@
+![[zzzz_Attachments/confluent_logo.png]]
+#  2022-02-15 Oscar Gómez RSA Engagement Report
+
+##### status: #report 
+##### Tags:  [[kafka_configs]] [[kafka_clients]] [[kafka_topics]] [[kafka_users]]
+
+# Work Notes
+
+## 2022-02-15 10:14
+
+### Client: [[STC Kuwait Network]]
+### Topic: Smart Care Integration
+
+#### The main goal of the session is to provide the Client App (Smartcare) the information needed to connect successfully to Kafka.
+
+### Attendees:
+- Oscar Gómez (Confluent RSA)
+- Mohamed Derar (SCT Kafka Project Team)
+- DingYi (SmartCare App Team)
+
+### Tags: [[Kafka Config]]
+### Notes:
+
+- Connection Info provided by STC Kuwait side
+- Basic schema of Client Side connection:
+
+![[Kafka Client Connection.png]]
+
+
+## 2022-02-15 11:41
+
+### Client: [[STC Kuwait Network]]
+### Topic: 
+- Topic Creation
+### Attendees:
+* Mohamed Derar
+### Tags: [[kafka_topics]] [[kafka_configs]]
+### Notes:
+##### Basic Understanding of Kafka Topic Topology:
+
+![[2021-02-15 White Boarding.png]]
+```ad-hint
+For all the subsequent commands we go to the path:
+
+`opt/confluent/kafka`
+
+inside a broker, where all the ansible propertie files are.
+```
+
+##### Basics of creation a topic:
+
+```ad-example
+title: list all topics
+~~~bash
+/opt/confluent/confluent-6.1.1/bin/kafka-topics --command-config client.properties --bootstrap-server SQDC06SR-BRK01.viva.com.kw:9092 --list
+~~~
+```
+
+```ad-example
+title: create smartcare topic
+~~~bash
+/opt/confluent/confluent-6.1.1/bin/kafka-configs --command-config client.properties --bootstrap-server SQDC06SR-BRK01.viva.com.kw:9092 --create --topic test-smart-care --partitions 3 --replica-factor 3
+~~~
+```
+
+```ad-example
+title: describe smartcare topic
+~~~bash
+/opt/confluent/confluent-6.1.1/bin/kafka-configs --command-config client.properties --bootstrap-server SQDC06SR-BRK01.viva.com.kw:9092 --describe --topic test-smart-care
+~~~
+```
+
+##### User Creation:
+
+```ad-example
+title: Create Smartcare user
+~~~bash
+/opt/confluent/confluent-6.1.1/bin/kafka-configs --command-config client.properties --entity-type users --bootstrap-server SQDC06SR-BRK01.viva.com.kw:9092 --entity-name smartcare_user --alter 'SCRAM-SHA-512=[iterations=4096,password=smartcare_secret]'
+~~~
+```
+
+```ad-example
+title: List exisiting Users
+~~~bash
+/opt/confluent/confluent-6.1.1/bin/kafka-configs --command-config client.properties --entity-type users --bootstrap-server SQDC06SR-BRK01.viva.com.kw:9092 --all --describe
+~~~
+```

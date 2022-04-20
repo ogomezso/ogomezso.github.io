@@ -5,5 +5,8 @@
   "obsidian-excalidraw-plugin",
   "sliding-panes-obsidian",
   "obsidian-pandoc",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-checklist-plugin",
+  "obsidian-dynamic-toc",
+  "calendar"
 ]
