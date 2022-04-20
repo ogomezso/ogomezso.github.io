@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 449
   },
   "right": {
     "id": "cceef0c0e44826ef",
@@ -124,14 +124,14 @@
   "active": "46a8ea2d80efc3a4",
   "lastOpenFiles": [
     "__fleeting_notes/202204181710 - CFK Runbook.md",
-    "4_daily_notes/2022-04-20.md",
-    "5_weekly_notes/2022-W05.md",
-    "4_daily_notes/2022-02-03.md",
-    "a_clients/ADIB/ADIB.md",
-    "4_daily_notes/2022-02-02.md",
-    "__fleeting_notes/202203081719 - spring kafka k8s.md",
-    "Excalidraw/Drawing 2022-04-18 CFK Deployment Types.md",
+    "b_products/confluent/Confluent for Kubernetes.md",
     "__fleeting_notes/202204131010 - Parallel Consumer.md",
-    "4_daily_notes/2022-03-16.md"
+    "__fleeting_notes/202203281753 - julie_ops topic naming.md",
+    "__fleeting_notes/202203261044 - PCA.md",
+    "__fleeting_notes/202203101929 - Kstreams k8s Deployment.md",
+    "__fleeting_notes/202203100938 - Bootcamp - Kafka Streams.md",
+    "__fleeting_notes/202203081719 - spring kafka k8s.md",
+    "__fleeting_notes/202203051753 - Istio Install.md",
+    "__fleeting_notes/202202271352 - Istio AB.md"
   ]
 }
