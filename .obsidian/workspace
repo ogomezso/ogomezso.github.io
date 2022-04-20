@@ -7,8 +7,12 @@
         "id": "0b0281f9a016647d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "__fleeting_notes/202202271352 - Istio AB.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "__fleeting_notes/202202271352 - Istio AB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,5 +112,8 @@
     "collapsed": true
   },
   "active": "0b0281f9a016647d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "__fleeting_notes/202202271352 - Istio AB.md",
+    "__fleeting_notes/202203261044 - PCA.md"
+  ]
 }
