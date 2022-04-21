@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:docs/_notes",
@@ -62,9 +62,16 @@
         "a": 1,
         "rgb": 15191285
       }
+    },
+    {
+      "query": "tag:#repos",
+      "color": {
+        "a": 1,
+        "rgb": 16711850
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.8,
   "nodeSizeMultiplier": 1.648828125,
@@ -74,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 0.868064413265306,
   "linkDistance": 103,
-  "scale": 0.14883034191838324,
+  "scale": 0.12870401988025215,
   "close": true
 }
