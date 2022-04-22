@@ -124,6 +124,7 @@
   "active": "46a8ea2d80efc3a4",
   "lastOpenFiles": [
     "__fleeting_notes/202204181710 - CFK Runbook.md",
+    "a_clients/Santander/2022-02-18 Santander Weekly Report.md",
     "1_zettelkasten/Create Kind Multinode Cluster.md",
     "0_references/KIND Docs.md",
     "__fleeting_notes/202204131010 - Parallel Consumer.md",
@@ -131,7 +132,6 @@
     "0_references/CFK Playground.md",
     "Excalidraw/Drawing 2022-04-18 CFK Deployment Types.md",
     "b_products/confluent/Confluent for Kubernetes.md",
-    "__fleeting_notes/202203281753 - julie_ops topic naming.md",
-    "__fleeting_notes/202203261044 - PCA.md"
+    "__fleeting_notes/202203281753 - julie_ops topic naming.md"
   ]
 }
