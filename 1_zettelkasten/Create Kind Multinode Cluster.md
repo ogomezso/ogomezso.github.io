@@ -21,7 +21,5 @@ nodes:
 ~~~
 
 ~~~bash
-kind create cluster --name k8s-playground --config kind-config.yaml
+kind create cluster --name cfk-playground --config kind-cluster-config.yaml
 ~~~
-
-To be able to got external access to your pod 
