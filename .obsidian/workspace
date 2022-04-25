@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__fleeting_notes/202204181710 - CFK Runbook.md",
+            "file": "zzz_confluent team/Dennis Federico.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__fleeting_notes/202204181710 - CFK Runbook.md",
+                "file": "zzz_confluent team/Dennis Federico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__fleeting_notes/202204181710 - CFK Runbook.md"
+                "file": "zzz_confluent team/Dennis Federico.md"
               }
             }
           }
@@ -123,6 +123,8 @@
   },
   "active": "61d67122fb8bc4ad",
   "lastOpenFiles": [
+    "zzz_confluent team/Dennis Federico.md",
+    "4_daily_notes/2022-04-25.md",
     "__fleeting_notes/202204181710 - CFK Runbook.md",
     "4_daily_notes/2022-04-22.md",
     "b_products/confluent/CP 7.0.md",
@@ -130,8 +132,6 @@
     "zzz_confluent team/Piotr Smolinski.md",
     "zzz_confluent team/Konstantine Silin.md",
     "zzz_confluent team/Giovanni Marigi.md",
-    "zzz_confluent team/Kiril Kulikov.md",
-    "zzz_confluent team/Jon Vines.md",
-    "zzz_confluent team/Roman Schmitz.md"
+    "zzz_confluent team/Kiril Kulikov.md"
   ]
 }
