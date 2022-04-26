@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4_daily_notes/2022-04-26.md",
+            "file": "6_projects/Kafka Test Utils/TODO LIST.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_daily_notes/2022-04-26.md",
+                "file": "6_projects/Kafka Test Utils/TODO LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_daily_notes/2022-04-26.md"
+                "file": "6_projects/Kafka Test Utils/TODO LIST.md"
               }
             }
           }
@@ -123,15 +123,15 @@
   },
   "active": "61d67122fb8bc4ad",
   "lastOpenFiles": [
+    "6_projects/Kafka Test Utils/TODO LIST.md",
+    "0_references/Kafka Test Utils.md",
     "4_daily_notes/2022-04-26.md",
+    "6_projects/Service Mesh/TODO LIST.md",
+    "docs/notes.md",
     "__fleeting_notes/202204181710 - CFK Runbook.md",
     "zzz_confluent team/Dennis Federico.md",
     "4_daily_notes/2022-04-25.md",
     "4_daily_notes/2022-04-22.md",
-    "b_products/confluent/CP 7.0.md",
-    "zzz_confluent team/Neil Middleton.md",
-    "zzz_confluent team/Piotr Smolinski.md",
-    "zzz_confluent team/Konstantine Silin.md",
-    "zzz_confluent team/Giovanni Marigi.md"
+    "b_products/confluent/CP 7.0.md"
   ]
 }
