@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f0265c07383dbb1e",
+        "id": "7cc17a8aee5674bb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4_daily_notes/2022-04-27.md",
+            "file": "5_weekly_notes/2022-W16.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_daily_notes/2022-04-27.md",
+                "file": "5_weekly_notes/2022-W16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_daily_notes/2022-04-27.md"
+                "file": "5_weekly_notes/2022-W16.md"
               }
             }
           }
@@ -120,17 +120,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f0265c07383dbb1e",
+  "active": "7cc17a8aee5674bb",
   "lastOpenFiles": [
-    "4_daily_notes/2022-04-27.md",
+    "5_weekly_notes/2022-W16.md",
+    "5_weekly_notes/2022-W15.md",
+    "5_weekly_notes/2022-W14.md",
+    "5_weekly_notes/2022-W12.md",
+    "4_daily_notes/2022-03-22.md",
+    "5_weekly_notes/2022-W11.md",
+    "5_weekly_notes/2022-W10.md",
     "5_weekly_notes/2022-W09.md",
-    "5_weekly_notes/2022-W08.md",
-    "5_weekly_notes/2022-W07.md",
-    "5_weekly_notes/2022-W06.md",
-    "4_daily_notes/2022-02-10.md",
-    "5_weekly_notes/2022-W05.md",
-    "zzz_confluent team/Dennis Federico.md",
-    "a_clients/Santander/Team/Manuel Lara.md",
-    "4_daily_notes/2022-03-15.md"
+    "4_daily_notes/2022-03-02.md",
+    "4_daily_notes/2022-04-27.md"
   ]
 }
