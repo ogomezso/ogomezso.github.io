@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5_weekly_notes/2022-W09.md",
+            "file": "4_daily_notes/2022-04-27.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_weekly_notes/2022-W09.md",
+                "file": "4_daily_notes/2022-04-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_weekly_notes/2022-W09.md"
+                "file": "4_daily_notes/2022-04-27.md"
               }
             }
           }
@@ -122,12 +122,12 @@
   },
   "active": "f0265c07383dbb1e",
   "lastOpenFiles": [
+    "4_daily_notes/2022-04-27.md",
     "5_weekly_notes/2022-W09.md",
     "5_weekly_notes/2022-W08.md",
     "5_weekly_notes/2022-W07.md",
     "5_weekly_notes/2022-W06.md",
     "4_daily_notes/2022-02-10.md",
-    "4_daily_notes/2022-04-27.md",
     "5_weekly_notes/2022-W05.md",
     "zzz_confluent team/Dennis Federico.md",
     "a_clients/Santander/Team/Manuel Lara.md",
