@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc17a8aee5674bb",
+        "id": "409a72d604d06a29",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5_weekly_notes/2022-W16.md",
+            "file": "4_daily_notes/2022-04-28.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_weekly_notes/2022-W16.md",
+                "file": "4_daily_notes/2022-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_weekly_notes/2022-W16.md"
+                "file": "4_daily_notes/2022-04-28.md"
               }
             }
           }
@@ -120,8 +120,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7cc17a8aee5674bb",
+  "active": "409a72d604d06a29",
   "lastOpenFiles": [
+    "4_daily_notes/2022-04-28.md",
     "5_weekly_notes/2022-W16.md",
     "5_weekly_notes/2022-W15.md",
     "5_weekly_notes/2022-W14.md",
@@ -130,7 +131,6 @@
     "5_weekly_notes/2022-W11.md",
     "5_weekly_notes/2022-W10.md",
     "5_weekly_notes/2022-W09.md",
-    "4_daily_notes/2022-03-02.md",
-    "4_daily_notes/2022-04-27.md"
+    "4_daily_notes/2022-03-02.md"
   ]
 }
