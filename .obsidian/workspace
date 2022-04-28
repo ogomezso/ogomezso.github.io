@@ -114,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -123,6 +124,7 @@
   "active": "314aefbd76944487",
   "lastOpenFiles": [
     "4_daily_notes/2022-04-28.md",
+    "0_references/Kafka Clients Benchmark.md",
     "5_weekly_notes/2022-W16.md",
     "__fleeting_notes/202204281113 - Kube-Con.md",
     "5_weekly_notes/2022-W05.md",
@@ -130,7 +132,6 @@
     "4_daily_notes/2022-04-26.md",
     "4_daily_notes/2022-04-25.md",
     "a_clients/Santander/Santander.md",
-    "5_weekly_notes/2022-W15.md",
-    "5_weekly_notes/2022-W14.md"
+    "5_weekly_notes/2022-W15.md"
   ]
 }
