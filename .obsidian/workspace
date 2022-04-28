@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "409a72d604d06a29",
+        "id": "314aefbd76944487",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4_daily_notes/2022-04-28.md",
+            "file": "__fleeting_notes/202204281113 - Kube COn.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_daily_notes/2022-04-28.md",
+                "file": "__fleeting_notes/202204281113 - Kube COn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_daily_notes/2022-04-28.md"
+                "file": "__fleeting_notes/202204281113 - Kube COn.md"
               }
             }
           }
@@ -120,17 +120,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "409a72d604d06a29",
+  "active": "314aefbd76944487",
   "lastOpenFiles": [
+    "__fleeting_notes/202204281113 - Kube COn.md",
+    "5_weekly_notes/2022-W05.md",
     "4_daily_notes/2022-04-28.md",
+    "4_daily_notes/2022-04-27.md",
+    "4_daily_notes/2022-04-26.md",
+    "4_daily_notes/2022-04-25.md",
     "a_clients/Santander/Santander.md",
     "5_weekly_notes/2022-W16.md",
     "5_weekly_notes/2022-W15.md",
-    "5_weekly_notes/2022-W14.md",
-    "5_weekly_notes/2022-W12.md",
-    "4_daily_notes/2022-03-22.md",
-    "5_weekly_notes/2022-W11.md",
-    "5_weekly_notes/2022-W10.md",
-    "5_weekly_notes/2022-W09.md"
+    "5_weekly_notes/2022-W14.md"
   ]
 }
