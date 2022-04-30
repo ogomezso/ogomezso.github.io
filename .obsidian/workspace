@@ -97,14 +97,6 @@
             }
           },
           {
-            "id": "6460126abfbdc173",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "55e0ad72132d1ccb",
             "type": "leaf",
             "state": {
@@ -113,13 +105,21 @@
                 "file": "4_daily_notes/2022-04-28.md"
               }
             }
+          },
+          {
+            "id": "6330f1153ba9d8e2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "314aefbd76944487",
   "lastOpenFiles": [
