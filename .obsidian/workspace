@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "314aefbd76944487",
+        "id": "a55df5f37c4bcb9a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4_daily_notes/2022-04-28.md",
+            "file": "__fleeting_notes/202205021145 - Simple Regression.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_daily_notes/2022-04-28.md",
+                "file": "__fleeting_notes/202205021145 - Simple Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_daily_notes/2022-04-28.md"
+                "file": "__fleeting_notes/202205021145 - Simple Regression.md"
               }
             }
           },
@@ -114,24 +114,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "314aefbd76944487",
+  "active": "a55df5f37c4bcb9a",
   "lastOpenFiles": [
+    "__fleeting_notes/202205021145 - Simple Regression.md",
+    "__fleeting_notes/202205021136 - Multiple Regression.md",
+    "__fleeting_notes/Untitled.md",
+    "0_references/An Introduction to Applied Multivariate Analysis with R.md",
+    "__fleeting_notes/202203261044 - PCA.md",
+    "__fleeting_notes/202203281753 - julie_ops topic naming.md",
+    "0_references/Applied Multivariate Statistics for the Social Science.md",
     "4_daily_notes/2022-04-28.md",
     "0_references/Kafka Clients Benchmark.md",
-    "5_weekly_notes/2022-W16.md",
-    "__fleeting_notes/202204281113 - Kube-Con.md",
-    "5_weekly_notes/2022-W05.md",
-    "4_daily_notes/2022-04-27.md",
-    "4_daily_notes/2022-04-26.md",
-    "4_daily_notes/2022-04-25.md",
-    "a_clients/Santander/Santander.md",
-    "5_weekly_notes/2022-W15.md"
+    "5_weekly_notes/2022-W16.md"
   ]
 }
