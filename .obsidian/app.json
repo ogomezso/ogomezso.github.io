@@ -9,5 +9,6 @@
   },
   "alwaysUpdateLinks": true,
   "lineWrap": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "spellcheck": false
 }
