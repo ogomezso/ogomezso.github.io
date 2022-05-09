@@ -2,5 +2,6 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "obisidian_confluent_pdf"
-  ]
+  ],
+  "baseFontSize": 23
 }
