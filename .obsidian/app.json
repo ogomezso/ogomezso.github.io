@@ -10,5 +10,6 @@
   "alwaysUpdateLinks": true,
   "lineWrap": true,
   "readableLineLength": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "attachmentFolderPath": "./zzz_Attachments"
 }
