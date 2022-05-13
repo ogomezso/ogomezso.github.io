@@ -8,7 +8,7 @@
 ### References:
 
 - [Subject Name Strategy](https://docs.confluent.io/platform/current/schema-registry/serdes-develop/index.html#sr-schemas-subject-name-strategy) ^a149b2
-
+´
 ---
 
 ```ad-question
