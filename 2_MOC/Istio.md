@@ -1,7 +1,10 @@
-#### Tags
-#k8s 
-#service_mesh 
-#CFK 
+
+# Istio
+## 2022-05-16
+
+### Status: #MOC
+### Tags:
+[[k8s]] [[service_mesh]] [[cfk]] [[Istio]]
 
 #### Linked Pages
 [[Confluent for Kubernetes]]
