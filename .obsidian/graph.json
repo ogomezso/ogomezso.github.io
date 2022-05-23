@@ -1,22 +1,65 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:2_MOC",
+      "color": {
+        "a": 1,
+        "rgb": 4290192
+      }
+    },
+    {
+      "query": "path:3_literature-notes",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "path:0_references",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "path:4_daily_notes",
+      "color": {
+        "a": 1,
+        "rgb": 3645565
+      }
+    },
+    {
+      "query": "path:5_weekly_notes",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:1_zettelkasten",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "lineSizeMultiplier": 1.292578125,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 12.3325892857143,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.628884045871498,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.2917503403592401,
+  "close": true
 }
