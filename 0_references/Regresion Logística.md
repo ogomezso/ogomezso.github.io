@@ -6,7 +6,7 @@ Varios
 ### Tags: 
 [[data_science]] [[analisis_multivariante]] [[uoc]] 
 ### Links:
-* [{{RPubs}} Regresion Logística](https://about:blank)
+* [{{RPubs}} Regresion Logística](https://rpubs.com/Joaquin_AR/229736)
 * [Ajuste Regresion Logistica](https://win-vector.com/2011/09/14/the-simpler-derivation-of-logistic-regression/)
 ---
 ### Notes:
