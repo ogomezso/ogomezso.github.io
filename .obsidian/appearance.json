@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "obisidian_confluent_pdf"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "translucency": false
 }

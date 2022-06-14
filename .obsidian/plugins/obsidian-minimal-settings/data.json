@@ -25,7 +25,7 @@
   "colorfulHeadings": true,
   "minimalIcons": true,
   "colorfulActiveStates": false,
-  "fancyCursor": true,
+  "fancyCursor": false,
   "frostedSidebar": true,
   "trimNames": true,
   "labeledNav": false,
@@ -38,6 +38,7 @@
   "underlineExternal": true,
   "useSystemTheme": false,
   "folding": true,
-  "lineNumbers": false,
-  "readableLineLength": false
+  "lineNumbers": true,
+  "readableLineLength": false,
+  "devBlockWidth": false
 }
