@@ -9,4 +9,10 @@
 * #repos  [cfk-playground](https://github.com/ogomezso/cfk-playground)
 ---
 ### Notes:
- 
+
+We gonna use nginx ingress:
+
+~~~
+
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/main/deploy/static/provider/kind/deploy.yaml
+~~~
