@@ -1,4 +1,4 @@
-# Disaster Recovery on Multidacenter Scenarios
+# Disaster Recovery on Multidatacenter Scenarios
 # 2022-07-06 10:53
 ### Autor:
 Confluent
