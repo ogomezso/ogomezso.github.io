@@ -9,7 +9,7 @@
 - #confluent_docs [Schema Registry Limits](https://docs.confluent.io/cloud/current/sr/schemas-manage.html#supported-features-and-limits-for-sr-ccloud)
 - #confluent_docs [Supported Versions and Interoperability](https://docs.confluent.io/platform/current/installation/versions-interoperability.html#interoperability-versions)
 - #confluent_docs [Continuous Migration](https://docs.confluent.io/platform/current/schema-registry/installation/migrate.html#continuous-migration)
-- #confluent_docs [One-off Migration ]([https://docs.confluent.io/platform/current/schema-registry/installation/migrate.html#one-time-migration](https://docs.confluent.io/platform/current/schema-registry/installation/migrate.html#one-time-migration))
+- #confluent_docs [One-off Migration ](https://docs.confluent.io/platform/current/schema-registry/installation/migrate.html#one-time-migration)
 - #confluent_docs [Quick Start Guides]([https://docs.confluent.io/platform/current/schema-registry/installation/migrate.html#quick-start](https://docs.confluent.io/platform/current/schema-registry/installation/migrate.html#quick-start))
 
 ---
