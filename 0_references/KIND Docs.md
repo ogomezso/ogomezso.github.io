@@ -3,7 +3,7 @@
 ### Autor:
 ### Status: #reference
 ### Tags: 
-[[kind]] [[k8s]] [[cfk]] [[docker]]
+[[kind]] [[K8s Architecture Big Picture]] [[cfk]] [[docker]]
 ### Links:
 * [Kind Doc](https://kind.sigs.k8s.io/)
 * [Create Multinode Cluster](https://mcvidanagama.medium.com/set-up-a-multi-node-kubernetes-cluster-locally-using-kind-eafd46dd63e5)

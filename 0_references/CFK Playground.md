@@ -4,7 +4,7 @@
 ### Status: #reference
 ### Tags: 
 
-[[GKE]] [[cfk]] [[k8s]]
+[[GKE]] [[cfk]] [[K8s Architecture Big Picture]]
 ### Links:
 * #repos  [cfk-playground](https://github.com/ogomezso/cfk-playground)
 ---

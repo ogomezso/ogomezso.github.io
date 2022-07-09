@@ -3,6 +3,6 @@
 
 ### Status: #MOC
 ### Tags:
-[[Envoy]] [[Istio]] [[k8s]] [[cfk]]
+[[Envoy]] [[Istio]] [[K8s Architecture Big Picture]] [[cfk]]
 
 ---

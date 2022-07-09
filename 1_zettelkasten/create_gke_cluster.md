@@ -3,7 +3,7 @@
 
 ### Status: #idea
 ### Tags:
-[[cfk]] [[k8s]] [[GKE]]
+[[cfk]] [[K8s Architecture Big Picture]] [[GKE]]
 
 ### References:
 - #repos [[CFK Playground]]

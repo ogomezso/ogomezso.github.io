@@ -3,7 +3,7 @@
 
 ### Status: #idea
 ### Tags:
-[[kind]] [[k8s]] [[cfk]] [[docker]]
+[[kind]] [[K8s Architecture Big Picture]] [[cfk]] [[docker]]
 ### References:
 [[KIND Docs]]
 

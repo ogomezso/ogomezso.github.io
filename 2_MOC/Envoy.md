@@ -3,7 +3,7 @@
 
 ### Status: #MOC
 ### Tags:
-[[service_mesh]] [[k8s]] [[Istio]] [[cfk]]
+[[service_mesh]] [[K8s Architecture Big Picture]] [[Istio]] [[cfk]]
 ---
 ### Linked Pages
 
