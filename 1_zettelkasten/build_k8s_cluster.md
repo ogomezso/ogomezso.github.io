@@ -9,6 +9,8 @@
 
 ---
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ## Index
 ```toc
  style: bullet 
@@ -16,6 +18,8 @@
  max_depth: 6
 ```
 ---
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ### Cluster Setup
 
@@ -36,6 +40,8 @@
 > 	 - 4 GiB Memory
 > 	 - TAG: k8s_cp
 > 	 - password: 0G11084l
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ### Runbook
 
@@ -63,6 +69,8 @@ For my _cloud_guru playground_
 172.31.126.193   k8s-worker1
 172.31.122.191   k8s-worker2
 ~~~
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 #### Install containerd as Container Runtime:
 
@@ -103,6 +111,8 @@ net.bridge.bridge-nf-call-ip6tables = 1
 EOF
 ~~~
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ##### Reload sysctl
 
 ~~~shell
@@ -131,6 +141,8 @@ sudo containerd config default | sudo tee /etc/containerd/config.toml
 sudo systemctl restart containerd
 ~~~
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 #### Check Swap Config
 
 ##### DISABLE swap
@@ -147,6 +159,8 @@ sudo swapoff -a
 ~~~shell
 sudo cat /etc/fstab
 ~~~
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 #### Install K8s Packages
 
@@ -177,6 +191,8 @@ EOF
 sudo apt-get update
 ~~~
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ##### Install K8s 
 
 > [!important]
@@ -195,6 +211,8 @@ sudo apt-mark hold kubelet kubeadm kubectl
 
 > [!important]
 > Previous steps must be done on contol-plane and workers nodes
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 #### Initialize the Cluster
 
@@ -224,6 +242,8 @@ sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
 sudo chown $(id -u):$(id -g) $HOME/.kube/config
 ~~~
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ##### Check you can use kubectl
 
 ~~~shell
@@ -242,6 +262,8 @@ kubectl get nodes
 kubectl apply -f https://docs.projectcalico.org/manifests/calico.yaml
 ~~~
 
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 #### Add workers to cluster
 
