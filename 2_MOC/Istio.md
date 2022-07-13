@@ -4,7 +4,7 @@
 
 ### Status: #MOC
 ### Tags:
-[[K8s Architecture Big Picture]] [[service_mesh]] [[cfk]] [[Istio]]
+[[k8s]] [[service_mesh]] [[cfk]] [[Istio]]
 
 #### Linked Pages
 [[Confluent for Kubernetes]]
