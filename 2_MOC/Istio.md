@@ -280,7 +280,7 @@ apiVersion: v1
 
 #### Label the namespace to automatically inject istio sidecars: 
 ```bash
-kubectl label namespace book-info istio-injection=enabled`
+kubectl label namespace book-info istio-injection=enabled
 ````
 
 #### Create services using the same CRs of the original but adding the namespace:
