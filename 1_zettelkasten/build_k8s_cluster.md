@@ -160,6 +160,12 @@ sudo swapoff -a
 sudo cat /etc/fstab
 ~~~
 
+Just in case any you have any swap entry there you can run to delete it:
+
+~~~shell
+sudo sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab
+~~~
+
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 #### Install K8s Packages
@@ -196,7 +202,7 @@ sudo apt-get update
 ##### Install K8s 
 
 > [!important]
-> version must be on the same version
+> components must be on the same version
 
 
 ~~~shell
