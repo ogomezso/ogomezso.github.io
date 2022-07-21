@@ -24,7 +24,18 @@
 > Marketplace - La idea de integrarlo en el portal global trae mas dolor que gloria
 
 > [!warning] the ugly
-> Juie
+> - Julie Ops not really the way to go (Terraform Provider)
+> 
+> - Testing -> not possible to do properly without docker (we don't have string to pull to force to approve it)
+>
+> - Architecture -> we should be involved from the design phase
+>   
+> - Marketplace -> externalized without any control by our side.
+
+
+
+
+
 > 
 
 
